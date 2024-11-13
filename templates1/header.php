@@ -1,11 +1,11 @@
 <?php
 
-    include_once("config/url.php");
+    /*include_once("config/url.php");
     include_once("config/process.php");
     include_once("config/connection.php");
     include_once("config/process_subscribe.php");
     include_once("config/connection2.php");
-
+*/
     if (isset($_SESSION['msg'])) {
         $printMsg = $_SESSION['msg'];
 
