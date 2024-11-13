@@ -1,4 +1,4 @@
-/*<?php 
+<?php 
 
 	$host = "localhost";				
 	$dbname = "violao";					
@@ -20,4 +20,4 @@
 
 	}
 
-?>*/
+?>
