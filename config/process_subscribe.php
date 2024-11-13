@@ -1,7 +1,7 @@
 <?php 
 									
-	include_once("connection2.php");				
-	include_once("url.php");						
+	//include_once("connection2.php");				
+	//include_once("url.php");						
 
 	$data = $_POST;
 
