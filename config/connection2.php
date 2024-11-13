@@ -1,6 +1,6 @@
 <?php 
 
-	$host = "localhost";				
+	/*$host = "localhost";				
 	$dbname = "violao2";					
 	$user = "root";						
 	$pass = "";							
@@ -19,5 +19,5 @@
 		echo "Erro: $error";
 
 	}
-
+*/
 ?>
